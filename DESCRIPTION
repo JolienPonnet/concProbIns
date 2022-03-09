@@ -1,0 +1,20 @@
+Package: concProbIns
+Type: Package
+Title: Concordance probability for large datasets in an insurance pricing setting
+Version: 1.0.0
+Authors@R: c(
+            person(given = "Jolien", family = "Ponnet", role = c("aut", "cre"), email = "jolien.ponnet@kuleuven.be"),
+            person(given = "Robin", family = "Van Oirbeek", role = c("aut")),
+            person(given = "Tim", family = "Verdonck", role = c("aut"))) 
+Description: This package gives two estimation methods to calculate the concordance probability in an efficient way, both for frequency and severity data.
+Depends: R (>= 3.6.0)
+Imports: data.table, R2DT, devFunc, stats
+License: GPL (>= 2)
+Author: Jolien Ponnet [aut, cre],
+  Robin Van Oirbeek [aut],
+  Tim Verdonck [aut]
+Maintainer: Jolien Ponnet <jolien.ponnet@kuleuven.be>
+LazyLoad: yes
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: yes
