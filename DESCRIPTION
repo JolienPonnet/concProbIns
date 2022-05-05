@@ -1,6 +1,6 @@
 Package: concProbIns
 Type: Package
-Title: Concordance probability for large datasets in an insurance pricing setting
+Title: Concordance probability for large data sets in an insurance pricing setting
 Version: 1.0.0
 Authors@R: c(
             person(given = "Jolien", family = "Ponnet", role = c("aut", "cre"), email = "jolien.ponnet@kuleuven.be"),
